@@ -898,6 +898,114 @@ const preguntas = [
         "Apagar equipos"
     ],
     respuesta: "Reducir tiempo"
-}
+},
+
+{
+    pregunta: "¿Cuál es la función principal del CPU?",
+    opciones: ["Procesamiento", "Salida de información", "Entrada de datos", "Almacenamiento"],
+    respuesta: "Procesamiento"
+},
+
+{
+    pregunta: "¿Cuál es la función del monitor?",
+    opciones: ["Entrada de datos", "Salida de información", "Procesamiento", "Almacenamiento"],
+    respuesta: "Salida de información"
+},
+
+{
+    pregunta: "¿Qué función cumple el teclado?",
+    opciones: ["Entrada de datos", "Salida de información", "Procesamiento", "Almacenamiento"],
+    respuesta: "Entrada de datos"
+},
+
+{
+    pregunta: "¿Qué característica tiene la RAM?",
+    opciones: ["Memoria temporal", "Procesamiento", "Almacenamiento permanente", "Conectividad"],
+    respuesta: "Memoria temporal"
+},
+
+{
+    pregunta: "¿Cuál es la característica principal de un disco duro?",
+    opciones: ["Memoria temporal", "Procesamiento", "Almacenamiento permanente", "Entrada de datos"],
+    respuesta: "Almacenamiento permanente"
+},
+
+{
+    pregunta: "¿Qué realiza el CPU?",
+    opciones: ["Procesamiento", "Almacenamiento", "Entrada de datos", "Impresión"],
+    respuesta: "Procesamiento"
+},
+
+{
+    pregunta: "¿Qué tipo de dispositivo es un mouse?",
+    opciones: ["Entrada", "Salida", "Procesamiento", "Almacenamiento"],
+    respuesta: "Entrada"
+},
+
+{
+    pregunta: "¿Qué tipo de dispositivo es una impresora?",
+    opciones: ["Entrada", "Salida", "Procesamiento", "Memoria"],
+    respuesta: "Salida"
+},
+
+{
+    pregunta: "¿Qué tipo de dispositivo es un monitor?",
+    opciones: ["Entrada", "Salida visual", "Procesamiento", "Almacenamiento"],
+    respuesta: "Salida visual"
+},
+
+{
+    pregunta: "¿Qué son los componentes físicos de un computador?",
+    opciones: ["Hardware", "Software", "Red", "Sistema operativo"],
+    respuesta: "Hardware"
+},
+
+{
+    pregunta: "¿Qué se considera software?",
+    opciones: ["Programas", "Procesador", "Memoria RAM", "Cable de red"],
+    respuesta: "Programas"
+},
+
+{
+    pregunta: "¿Qué permite la conexión entre equipos?",
+    opciones: ["Red", "CPU", "Monitor", "Teclado"],
+    respuesta: "Red"
+},
+
+{
+    pregunta: "¿Qué tipo de sistema es Windows?",
+    opciones: ["Sistema operativo", "Aplicación", "Driver", "Antivirus"],
+    respuesta: "Sistema operativo"
+},
+
+{
+    pregunta: "¿Qué tipo de programa es Excel?",
+    opciones: ["Aplicación", "Sistema operativo", "Controlador", "Firmware"],
+    respuesta: "Aplicación"
+},
+
+{
+    pregunta: "¿Qué tipo de sistema es Linux?",
+    opciones: ["Sistema operativo", "Aplicación", "Antivirus", "Driver"],
+    respuesta: "Sistema operativo"
+},
+
+{
+    pregunta: "¿Qué es un dispositivo móvil?",
+    opciones: ["PC", "Smartphone", "Monitor", "CPU"],
+    respuesta: "Smartphone"
+},
+
+{
+    pregunta: "¿Qué permite interacción?",
+    opciones: ["CPU", "Interfaz", "RAM", "BIOS"],
+    respuesta: "Interfaz"
+},
+
+{
+    pregunta: "¿Qué es periférico de salida?",
+    opciones: ["Mouse", "Monitor", "Teclado", "Scanner"],
+    respuesta: "Monitor"
+},
 
 ];
