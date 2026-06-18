@@ -55,3 +55,40 @@ p{
     margin-top:30px;
     text-align:center;
 }
+/* Pregunta más grande */
+#preguntaContainer h2 {
+    font-size: 34px;
+    margin-bottom: 25px;
+    line-height: 1.4;
+}
+
+/* Contador de preguntas */
+#preguntaContainer h3,
+#preguntaContainer h4 {
+    font-size: 24px;
+    margin: 5px 0;
+}
+
+/* Botones de respuesta */
+.opcion {
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+/* Responsive celular */
+@media (max-width: 768px) {
+    .opcion {
+        width: 90%;
+    }
+
+    #preguntaContainer h2 {
+        font-size: 26px;
+    }
+}
